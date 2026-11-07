@@ -6,9 +6,7 @@
   </picture>
   <br/>
 
-#  <a href="https://nisarg.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
-  </a>
+
   <a href="www.linkedin.com/in/arnav-kulkarni-5a7364385" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
