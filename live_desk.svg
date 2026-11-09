@@ -11,11 +11,11 @@ text { font-family: 'Courier New', monospace; fill: #c9d1d9; }
 </style>
 <rect width="600" height="220" rx="10" fill="#0d1117"/>
 <circle cx="24" cy="22" r="6" fill="#ff5f56"/><circle cx="44" cy="22" r="6" fill="#ffbd2e"/><circle cx="64" cy="22" r="6" fill="#27c93f"/>
-<text x="40" y="95" class="big">8:23 AM</text>
+<text x="40" y="95" class="big">4:30 PM</text>
 <text x="40" y="125" class="sm dim">Mon, 09 Nov 2026 · IST</text>
 <circle cx="46" cy="163" r="6" fill="#27c93f"/>
-<text x="62" y="168" class="sm">coding · last push 7h ago</text>
-<text x="40" y="198" class="sm dim">updated 08:23 IST</text>
+<text x="62" y="168" class="sm">coding · last push 15h ago</text>
+<text x="40" y="198" class="sm dim">updated 16:30 IST</text>
 
 <g class="steam" fill="none" stroke="#8b949e" stroke-width="3" stroke-linecap="round">
   <path class="s1" d="M468 150 q-8 -14 0 -28 q8 -14 0 -28"/>
